@@ -1,5 +1,6 @@
-# EarthSpecks_toolbox
-This repository containg the toolbox for EarthSpecks.
+# Sentinel-2 toolbox
+
+Work with sentinel-2 images easily. If you know how download Sentinel-2 Multi-Spectral-Images (or Electro-Optical), but you don't know how to work with them in Python, I have it all implemented here. 
 
 ##### 
 

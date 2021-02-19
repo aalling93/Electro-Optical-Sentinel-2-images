@@ -43,14 +43,13 @@ ndvi_index = ndvi(B04, B08)
 ```
 Normalized difference vegetation index (NDVI) from Sentinel-2 images. A simple index displaying how "healty" the vegetation is by indirectly measuring the amount of chlorophyll. This is done by using the load_bands() function to return band 04 and 08, and thereafter using the ndvi function.
 # Getting started
-
-### Prerequisites
+Download or clone.
 
 ### Installing
-* pip install pyshp
+* ...
 
 
 
 # Authors
 
-
+Kristian Aalling Sørensen

@@ -1,6 +1,6 @@
 # Sentinel-2 toolbox
 
-Work with sentinel-2 images easily. If you know how download Sentinel-2 Multi-Spectral-Images (or Electro-Optical), but you don't know how to work with them in Python, I have it all implemented here for you.
+Work with sentinel-2 images easily. If you know how to download Sentinel-2 Multi-Spectral-Images (or Electro-Optical), but you don't know how to work with them in Python, I have it all implemented here for you.
 
 
 ## Content
